@@ -6,5 +6,6 @@
 > * OOP01.py: The constructor "\_\_init__", the Class Attributes, and the Instance Attributes 
 > * OOP02.py: Three different methods: the Regular Method, the Class Method, and the Static Method (https://dzone.com/articles/python-class-attributes-vs-instance-attributes)
 > * OOP03.py: Inheritance, Superclass, and Subclass
+> * OOP04.py: Dunder or Magic method, "\_\_str__" and "\_\_repr__" (https://ithelp.ithome.com.tw/articles/10194593)
 ##### Learning resource: Corey Schafer https://www.youtube.com/channel/UCCezIgC97PvUuR4_gbFUs5g
 ###### (Last updated date: Aug. 11th 2019)
